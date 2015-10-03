@@ -1,6 +1,6 @@
 {
   "name": "regex-dirname",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression to capture a path dirname.",
   "author": {
     "name": "Athan Reines",
